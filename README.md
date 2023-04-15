@@ -2,6 +2,9 @@
 
 - :telescope: I’m currently working on Uguisu language.✨
 
+## Links
+- Patreon https://www.patreon.com/marihachi
+
 <!--
 **marihachi/marihachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
