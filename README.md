@@ -2,6 +2,14 @@
 
 - :telescope: I’m currently working on Uguisu language.✨
 
+## Languages
+TypeScript, C#, C, Rust
+
+## Interest
+- Language processor
+- Desktop apps
+- Server federation
+
 ## Links
 - Patreon https://www.patreon.com/marihachi
 
