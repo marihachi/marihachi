@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there :wave:
 
-- 🔭 I’m currently working on Uguisu language.
+- :telescope: I’m currently working on Uguisu language.✨
 
 <!--
 **marihachi/marihachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
