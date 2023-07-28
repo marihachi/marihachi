@@ -1,5 +1,5 @@
 ### Hi there :wave:
-:telescope: I’m currently working on Uguisu language!
+:telescope: I’m currently working on Terrario!
 
 ## Languages
 TypeScript, C#, C, Rust
