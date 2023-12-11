@@ -1,5 +1,5 @@
 ### Hi there :wave:
-:telescope: I’m currently working on Uguisu!
+:telescope: I’m currently working on holo language!
 
 ## Languages
 TypeScript, C#, C, Rust
