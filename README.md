@@ -2,7 +2,7 @@
 :telescope: I’m currently working on holo language!
 
 ## Languages
-TypeScript, C#, C, Rust
+TypeScript, C#, C/C++
 
 ## Interest
 - Programming language processing
