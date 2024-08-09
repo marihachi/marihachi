@@ -1,5 +1,5 @@
 ### Hi there :wave:
-:telescope: I’m currently working on holo language!
+:telescope: I’m currently working on Frost!
 
 ## Languages
 TypeScript, C#, C/C++
