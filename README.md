@@ -5,8 +5,8 @@ TypeScript, C#, C/C++
 
 ## Interest
 - Programming language processing
-- Server federation
-- Desktop apps
+- computer communication
+- Low-level programming
 
 ## Links
 - Patreon https://www.patreon.com/marihachi
