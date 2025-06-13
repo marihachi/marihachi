@@ -7,6 +7,7 @@ TypeScript, C#, C/C++
 - Programming language processing
   - LL Parser
   - Semantic Analyzer
+  - Interpreter
   - Bytecode VM
 - Computer communication
 - Low-level programming
