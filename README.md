@@ -5,8 +5,12 @@ TypeScript, C#, C/C++
 
 ## Interest
 - Programming language processing
-- computer communication
+  - LL Parser
+  - Bytecode VM
+- Computer communication
 - Low-level programming
+  - Embedded Firmware
+  - Emulation
 
 ## Links
 - Patreon https://www.patreon.com/marihachi
