@@ -6,6 +6,7 @@ TypeScript, C#, C/C++
 ## Interest
 - Programming language processing
   - LL Parser
+  - Semantic Analyzer
   - Bytecode VM
 - Computer communication
 - Low-level programming
