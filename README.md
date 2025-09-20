@@ -5,7 +5,9 @@ TypeScript, C#, C/C++
 
 ## Interest
 - Programming language processing
-  - LL Parser
+  - Parser
+    - LL grammar
+    - PEG
   - Semantic Analyzer
   - Interpreter
   - Bytecode VM
