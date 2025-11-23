@@ -15,6 +15,8 @@ TypeScript, C#, C/C++
 - Low-level programming
   - Embedded Firmware
   - Emulation
+- Database
+  - SQL
 
 <!--
 **marihachi/marihachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
