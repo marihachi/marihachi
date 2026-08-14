@@ -6,8 +6,9 @@ TypeScript, C#, C/C++
 ## Interest
 - Programming language processing
   - Parser
+    - Recursive Descent Parsing
     - LL grammar
-    - PEG
+    - Operator-precedence parser (Pratt parser)
   - Semantic Analyzer
   - Interpreter
   - Bytecode VM
